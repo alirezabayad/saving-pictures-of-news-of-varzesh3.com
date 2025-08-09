@@ -1,6 +1,6 @@
 ## saving pictures of news of varzesh3.com
 when you run first-code in terminal, the code goes to varzesh3.com and get links of sports and politics news and save them in `links.txt(the code make it)`. \
-and when you run second-code in terminal, the code read `links.txt` and find picthres from links of `links.txt` and save them in `pictures.txt(the code make it)`. \
+and when you run second-code in terminal, the code read `links.txt` and find pictures from links of `links.txt` and save them in `pictures.txt(the code make it)`. \
 please name your files like me
 ### instruction
 - first you write `cmd` in the Terminal  
