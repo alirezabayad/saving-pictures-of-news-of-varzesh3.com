@@ -7,6 +7,7 @@ please name your files like me
 - for install venv you must write `python -m venv .venv` in Terminal.
 - for active venv you must write `.venv\scripts\activate` in Terminal.
 - and you must install the library:`requests(pip install requests)`
+- then you must install the library:`bs4(pip install requests`
 - then you must run first-code in Terminal `python 1.py`
 - and finally you must run second-code in terminal(it may rake a few minut) . 
 When the code is ran, check `pictures.txt`.
